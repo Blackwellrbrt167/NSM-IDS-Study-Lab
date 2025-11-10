@@ -1,10 +1,14 @@
 # NSM-IDS-Study-Lab
 
+
+
 # 1. Purpose – What This Repository Is
 
 This repository is a hands-on study lab documenting my deep dive into Network Security Monitoring (NSM). I’m learning how alerts are generated, how Snort behaves at the packet level, and what attacker activity actually looks like when it shows up in the logs. Everything here reflects my real, step-by-step learning process as I build the foundation of a Blue Team analyst.
 
 I am intentionally studying NSM the “old-school way” — reading logs, inspecting traffic, writing small rules, and learning to interpret alerts without relying on heavy SIEM dashboards. This forces me to build clarity, pattern recognition, and discipline.
+
+
 
 
 # 2. Background – Why I Built This
@@ -22,6 +26,8 @@ reviewing logs manually
 learning how detection rules work
 
 This repository exists to keep my learning structured, consistent, and easy to reference as I grow.
+
+
 
 
 # 3. What This Repository Contains
@@ -45,6 +51,8 @@ Weekly reflections on what I learned and what needs work
 This is not a production build — it is a training ground to sharpen my analysis skills.
 
 
+
+
 # 4. Example – What This Lab Looks Like in Action
 
 Sample Snort Alert Output (Example):
@@ -65,6 +73,9 @@ Useful for validating my rule syntax before moving into more complex detections.
 
 Screenshots, logs, and full explanations will be added throughout the repo.
 
+
+
+
 # 5. Repository Structure
 NSM-IDS-Study-Lab/
 │
@@ -77,6 +88,9 @@ NSM-IDS-Study-Lab/
 
 
 This structure keeps everything organized so I can review my progress and return to concepts when needed.
+
+
+
 
 # 6. Requirements & Tools Used
 
@@ -95,6 +109,9 @@ Command-line workflow only (no GUI SIEM due to hardware constraints)
 Setup details and commands will be located in the /setup folder.
 
 
+
+
+
 # 7. Caveats, Limitations & Notes
 
 This is strictly a learning environment, not a hardened deployment.
@@ -104,6 +121,9 @@ Logs and captures are safe and self-generated — no real-world malicious sample
 My system limitations mean I am studying detection manually, which actually strengthens skill-building.
 
 This repository evolves over time as I practice more NSM, IDS, and packet-level work.
+
+
+
 
 
 # 8. License
