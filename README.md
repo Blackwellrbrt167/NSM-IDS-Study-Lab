@@ -80,6 +80,7 @@ Screenshots, logs, and full explanations will be added throughout the repo.
 
 
 # 5. Repository Structure
+
 NSM-IDS-Study-Lab/
 │
 ├── setup/                 # Snort installation, config files, environment notes
@@ -88,6 +89,7 @@ NSM-IDS-Study-Lab/
 ├── analysis/              # Breakdown of attacks, alert meaning, packet notes
 ├── captures/              # Traffic captures (safe, self-generated)
 └── reflections/           # Weekly lessons, challenges, next steps
+
 
 
 This structure keeps everything organized so I can review my progress and return to concepts when needed.
