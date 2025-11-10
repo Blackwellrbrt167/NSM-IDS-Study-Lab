@@ -148,3 +148,9 @@ This repository evolves over time as I practice more NSM, IDS, and packet-level 
 # 8. License
 
 No license applied at this time. Content is primarily for my education and documentation purposes.
+
+
+**Author:** Robert Blackwell III  
+**Focus Area:** Network Security Monitoring (NSM) & Intrusion Detection  
+**Objective:** Build practical Blue Team fundamentals through hands-on packet analysis, alert interpretation, and detection rule creation.
+
