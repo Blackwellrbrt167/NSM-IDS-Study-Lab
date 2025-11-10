@@ -55,6 +55,8 @@ This is not a production build — it is a training ground to sharpen my analysi
 
 # 4. Example – What This Lab Looks Like in Action
 
+```bash
+
 Sample Snort Alert Output (Example):
 
 [**] [1:1000001:1] ICMP Test Rule Triggered [**]
@@ -62,6 +64,7 @@ Sample Snort Alert Output (Example):
 10/10-14:52:11.123456 192.168.1.10 -> 192.168.1.20
 ICMP TTL:64 TOS:0x0 ID:54321 IpLen:20 DgmLen:84
 
+```
 
 Interpretation (My Learning Example):
 
